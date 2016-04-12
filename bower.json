@@ -1,0 +1,17 @@
+{
+  "name": "ime-workshop.github.io",
+  "description": "Site do grupo IME Workshop",
+  "main": "index.js",
+  "authors": [
+    "IMEworkshop"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/duilioelias/ime-workshop.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
